@@ -3,7 +3,6 @@
 # Problematic notations, such as escaping single quotes (\'), have been replaced with standard quotes, as they occasionally caused unexpected errors.
 # An "Amendments & Dependencies" block has been added to prevent the malware from downloading dependencies during execution. 
 # However, the dependency-checking functions remain active.
-# This sample can also be found as "Beavertail.py". Since the campaign is ongoing, naming conventions may vary. I decided to stick to "InvisibleFerret", as it is the most commonly used name.
 # Mauro Eldritch @ BCA LTD - 2024
 
 import base64,socket
