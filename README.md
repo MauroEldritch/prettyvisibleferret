@@ -13,3 +13,4 @@ This repository contains malware samples. Run at your own risk.
 - https://github.com/MauroEldritch/prettyvisibleferret
 - https://app.any.run/tasks/1951b184-a2fe-4cff-9999-cea0320910d4
 - https://otx.alienvault.com/pulse/6748ba726f50a8728d61068f
+- https://any.run/cybersecurity-blog/invisibleferret-malware-analysis/
